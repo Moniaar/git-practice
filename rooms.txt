@@ -1,3 +1,4 @@
 living: 20 m2
-bedroom: 12 m2
+bedroom: 11 m2
 kitchen 8 m2
+bathroom: 4 m2
